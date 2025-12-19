@@ -1,0 +1,4 @@
+flask==2.0.1
+opencv-python-headless==4.5.3.56  # Without GUI dependencies for AWS Lambda
+numpy==1.19.5                     # For array operations
+pillow==8.3.2                      # For image manipulation if needed
